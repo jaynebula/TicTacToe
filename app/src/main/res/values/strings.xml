@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="x_win_result">X has won this game</string>
+    <string name="o_win_result">O has won this game</string>
+    <string name="draw_result">This game has resulted in a draw!</string>
+    <string name="beginningScore">0</string>
+    <string name="EasyMode">Easy</string>
+    <string name="HardMode">Impossible</string>
+
+</resources>
